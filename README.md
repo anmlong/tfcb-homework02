@@ -3,11 +3,11 @@
 
 * https://github.com/anmlong/tfcb-homework02/blob/main/data/survey_data.xlsx
 
-2013 Species | 2014 Species
+species  | 
 ------------ | -------------
-DM | DM
-DO | DO
-DS | DS
+   | DM
+   | DO
+   | DS
    | OL
    | PF
    | OT
