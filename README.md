@@ -1,7 +1,7 @@
 # tfcb-homework02
 1. data
 
-* https://github.com/anmlong/tfcb-homework02/blob/main/data/survey_data.xlsx
+* https://github.com/anmlong/tfcb-homework02/blob/main/data/survey-data.tsv
 
 species | number of samples
 --------| -----------------
