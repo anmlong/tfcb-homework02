@@ -1,5 +1,9 @@
 # tfcb-homework02
 1. data
+Field season 2013 | Field season 2014
+----------------- | -----------------
+Species | Species
+DM, DO, DS |DM, DO, DS, OL, PF, OT, NA
 * https://github.com/anmlong/tfcb-homework02/blob/main/data/survey_data.xlsx
 2. code
 
