@@ -5,6 +5,12 @@ Field season 2013 | Field season 2014
 Species | Species
 DM, DO, DS |DM, DO, DS, OL, PF, OT, NA
 * https://github.com/anmlong/tfcb-homework02/blob/main/data/survey_data.xlsx
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 2. code
 
 3. images
