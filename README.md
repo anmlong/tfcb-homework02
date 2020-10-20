@@ -6,10 +6,15 @@ Species | Species
 DM, DO, DS |DM, DO, DS, OL, PF, OT, NA
 * https://github.com/anmlong/tfcb-homework02/blob/main/data/survey_data.xlsx
 
-First Header | Second Header
+2013 Species | 2014 Species
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+DM | DM
+DO | DO
+DS | DS
+   | OL
+   | PF
+   | OT
+   | NA
 
 2. code
 
