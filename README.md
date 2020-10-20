@@ -13,7 +13,7 @@ DS | DS
    | OT
    | NA
 
-2. code
+2. scrips
 * Data set
   * https://github.com/anmlong/tfcb-homework02/blob/main/code/get_dataset.py
 * Species list
