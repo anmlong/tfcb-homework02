@@ -4,5 +4,5 @@
 2. code
 
 3. images
-Rhytidoponera metallica:
+* Rhytidoponera metallica:
 ![alt text](https://github.com/anmlong/tfcb-homework02/blob/main/images/casent0172345-rhytidoponera_metallica.jpg "Logo Title Text 1")
