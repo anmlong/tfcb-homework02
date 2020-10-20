@@ -1,9 +1,6 @@
 # tfcb-homework02
 1. data
-Field season 2013 | Field season 2014
------------------ | -----------------
-Species | Species
-DM, DO, DS |DM, DO, DS, OL, PF, OT, NA
+
 * https://github.com/anmlong/tfcb-homework02/blob/main/data/survey_data.xlsx
 
 2013 Species | 2014 Species
@@ -17,6 +14,14 @@ DS | DS
    | NA
 
 2. code
+* Data set
+  * https://github.com/anmlong/tfcb-homework02/blob/main/code/get_dataset.py
+* Species list
+  * https://github.com/anmlong/tfcb-homework02/blob/main/code/get_species_list.py
+* Main
+  * https://github.com/anmlong/tfcb-homework02/blob/main/code/main.py
+* Predict image
+  * https://github.com/anmlong/tfcb-homework02/blob/main/code/predict_image.py
 
 3. images
 * Rhytidoponera metallica
