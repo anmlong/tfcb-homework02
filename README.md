@@ -9,6 +9,6 @@
 * Camponotus darwinii:
 ![alt text](https://github.com/anmlong/tfcb-homework02/blob/main/images/casent0191696-camponotus_darwinii.jpg "Logo Title Text 1")
 * Acanthomyrmex ferox:
-![alt text](https://github.com/anmlong/tfcb-homework02/blob/main/images/casent0901788-p-1-high_acanthomyrmex-ferox.jpg" "Logo Title Text 1")
+![alt text](https://github.com/anmlong/tfcb-homework02/blob/main/images/casent0901788-p-1-high_acanthomyrmex-ferox.jpg "Logo Title Text 1")
 * Cataglyphis fortis:
 ![alt text](https://github.com/anmlong/tfcb-homework02/blob/main/images/casent0906296-p-1-high_cataglyphis-fortis.jpg "Logo Title Text 1")
