@@ -11,4 +11,4 @@
 * Acanthomyrmex ferox:
 ![alt text](https://github.com/anmlong/tfcb-homework02/blob/main/images/casent0901788-p-1-high_acanthomyrmex-ferox.jpg" "Logo Title Text 1")
 * Cataglyphis fortis:
-![alt text](https://github.com/anmlong/tfcb-homework02/blob/main/images/casent0906296-p-1-high_cataglyphis-fortis.jpg" "Logo Title Text 1")
+![alt text](https://github.com/anmlong/tfcb-homework02/blob/main/images/casent0172345-rhytidoponera_metallica.jpg "Logo Title Text 1")
